@@ -14,7 +14,7 @@ bool isPalin(const char *s, int first, int last)
 
 int main() {
 
-    int counter = 1;
+    int counter =11;
     string s;
     while(counter) {
         cout << "Enter your string for palindrome test" << std::endl;
